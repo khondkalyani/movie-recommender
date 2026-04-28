@@ -1,4 +1,5 @@
 # 🎬 Movie Recommender System
+## Live Demo: https://movie-recommender-ccyyty3q58ycfpkn99xebq.streamlit.app/
 
 ## About
 Content-based movie recommendation system that suggests 
